@@ -1,9 +1,11 @@
 # CHEDLEEVA EVGENIA
 
 ### Contact information:
+<img src="img/Discord.png" width="25px"> <a href="https://github.com/evgeniachedleeva"><img src="img/github-logos.png" width="25px"></a> ___evgeniachedleeva___
+___E-mail: ev.chedly@gmail.com___
 
 
-
+### About me
 
 I am very interested in learning frontend development. This is a fun and practical activity that gives you the opportunity to create beautiful and functional websites. I'm learning **HTML, CSS** and JavaScript and how they work together to create interactivity and dynamism on pages. I also study the principles of website design and learn how to create an attractive user interface that makes site navigation more intuitive and convenient. All this gives me the opportunity to improve my skills and expand my knowledge in this area, which can lead to better opportunities in a career as a web developer.
 
