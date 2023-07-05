@@ -24,6 +24,17 @@ My work is related to the **layout** of the newspaper. Each issue of the newspap
 
 ### Code example:
 
+___Цикл While___
+Создайте программу-таймер, которая будет принимать количество секнд в качестве входного параметкра, выводить оставшееся время и отсчитывать до 0.
+
+```
+Let num = parseInt(readLine(), 10);
+
+while(num>=0) {
+     console.log(num);
+     num--;
+}
+```
 
 
 
